@@ -1,0 +1,23 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "ExpressJS, NodeJS, MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket-20/chai-backend.git"
+  },
+  "keywords": [
+    "Backend",
+    "Tutorial"
+  ],
+  "author": "Sanket Gupte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanket-20/chai-backend/issues"
+  },
+  "homepage": "https://github.com/sanket-20/chai-backend#readme"
+}
